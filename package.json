@@ -1,6 +1,6 @@
 {
-	"name": "@jtech-works/package-name",
-	"version": "3.0.1",
+	"name": "@jtech-works/bottom-sheet",
+	"version": "0.0.1",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"module": "./dist/index.mjs",
